@@ -1,0 +1,10 @@
+{
+  "name": "2023-02-20-html-forms-zoo",
+  "version": "0.0.0-unreleased",
+  "description": "",
+  "main": "index.html",
+  "nf": {
+    "template": "html-css-static"
+  },
+  "keywords": []
+}
